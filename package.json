@@ -1,0 +1,22 @@
+{
+  "name": "@dawesome/how-to-npm",
+  "version": "1.0.1",
+  "description": "how-to-npm test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawesome/how-to-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawesome/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/dawesome/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
